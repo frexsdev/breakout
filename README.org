@@ -1,5 +1,3 @@
-#+title: breakout
-
 * breakout
 
 ** Quick Start
